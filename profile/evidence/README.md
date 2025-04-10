@@ -2,7 +2,7 @@
 
 | หมวด | ชื่อหมวด | ลิงก์ไปยัง README |
 |------|-----------|--------------------|
-| 1 | ผลการเรียนรู้ที่คาดหวัง (Expected Learning Outcomes) | [profile/evidence/1-expected-learning-outcomes/README.md](profile/evidence/1-expected-learning-outcomes/README.md) |
+| 1 | ผลการเรียนรู้ที่คาดหวัง (Expected Learning Outcomes) | [1-expected-learning-outcomes/README.md](1-expected-learning-outcomes/README.md) |
 | 2 | โครงสร้างเนื้อหาหลักสูตร (Programme Structure and Content) | [profile/evidence/2-programme-structure/README.md](profile/evidence/2-programme-structure/README.md) |
 | 3 | การจัดการเรียนการสอน (Teaching and Learning Approach) | [profile/evidence/3-teaching-and-learning/README.md](profile/evidence/3-teaching-and-learning/README.md) |
 | 4 | การวัดและประเมินผลการเรียนรู้ (Student Assessment) | [profile/evidence/4-assessment/README.md](profile/evidence/4-assessment/README.md) |
