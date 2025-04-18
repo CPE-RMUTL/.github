@@ -97,4 +97,4 @@
 ---
 
 📌 **อัปเดตล่าสุด:** 20 มีนาคม 2568  
-📩 ติดต่อสอบถาม: computer.eng@rmutl.ac.th  
+📩 ติดต่อสอบถาม: [mr.kittinan@rmutl.ac.th](https://teams.microsoft.com/l/chat/0/0?users=mr.kittinan%40rmutl.ac.th&openExternalBrowser=1)
