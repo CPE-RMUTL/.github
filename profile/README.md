@@ -100,4 +100,7 @@
 📩 ติดต่อสอบถาม
 - [Line OA ของหลักสูตร](https://lin.ee/msQQCfx)
 - [mr.kittinan@rmutl.ac.th](https://teams.microsoft.com/l/chat/0/0?users=mr.kittinan%40rmutl.ac.th&openExternalBrowser=1)
-
+- [เว็บไซต์ของหลักสูตร](https://github.com/CPE-RMUTL)
+- [Facebook หลักสูตรวิศวกรรมคอมพิวเตอร์ เชียงใหม่](https://www.facebook.com/TechnicComputerRmutl)
+- [Facebook หลักสูตรวิศวกรรมคอมพิวเตอร์ เชียงราย](https://www.facebook.com/ComputerEngineering.rmutl)
+- [Facebook หลักสูตรวิศวกรรมคอมพิวเตอร์ เชียงตาก](https://www.facebook.com/profile.php?id=100064815457989)
