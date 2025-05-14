@@ -97,4 +97,7 @@
 ---
 
 📌 **อัปเดตล่าสุด:** 20 มีนาคม 2568  
-📩 ติดต่อสอบถาม: [mr.kittinan@rmutl.ac.th](https://teams.microsoft.com/l/chat/0/0?users=mr.kittinan%40rmutl.ac.th&openExternalBrowser=1)
+📩 ติดต่อสอบถาม
+- [Line OA ของหลักสูตร](https://lin.ee/msQQCfx)
+- [mr.kittinan@rmutl.ac.th](https://teams.microsoft.com/l/chat/0/0?users=mr.kittinan%40rmutl.ac.th&openExternalBrowser=1)
+
