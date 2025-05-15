@@ -26,10 +26,11 @@
 | วิชาโครงงาน (ENGCE113, ENGCE114) | Miro, Notion, MS Project |
 
 ### 3. แหล่งเรียนรู้ออนไลน์ (Open Educational Resources)
-- **YouTube Channels ทางการของมหาวิทยาลัย**
-- **คลังสื่ออิเล็กทรอนิกส์ (e-Library)** ของมหาวิทยาลัย
+- **YouTube Channels ทางการของมหาวิทยาลัย และ/หรือ แต่ละรายวิชา**
+  - เช่น รายวิชา [ENGCC304](https://www.youtube.com/playlist?list=PL4dBS-cP8bEaSvKpB8yrvKy8zuwMj_iSR) , [ENGCE117](https://www.youtube.com/playlist?list=PL4dBS-cP8bEa0HAdingfuSTNuzBn7Mpyd)
+- **คลังสื่ออิเล็กทรอนิกส์ (e-Library)** ของมหาวิทยาลัย [Link](https://library.rmutl.ac.th/)
 - **บทเรียนออนไลน์ในรูปแบบ MOOC**:
-  - Thai MOOC, Coursera, edX (ในบางรายวิชาที่อนุญาต)
+  - [RMUTL Moodle](https://moodle.rmutl.ac.th/), Coursera
 
 ### 4. รูปแบบการจัดการเรียนรู้แบบออนไลน์
 - **Blended Learning**:
