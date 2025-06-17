@@ -10,3 +10,5 @@
 | 6 | สิ่งสนับสนุนการเรียนรู้ (Facilities and Infrastructure) | [6-facilities/README.md](6-facilities/README.md) |
 | 7 | การพัฒนาคุณภาพอย่างต่อเนื่อง (Continual Quality Enhancement) | [7-quality-enhancement/README.md](7-quality-enhancement/README.md) |
 | 8 | เอกสาร/หลักฐานเพิ่มเติม (Supporting / Supplementary Materials) | [8-others/README.md](8-others/README.md) |
+
+[กลับหน้าแรก](https://github.com/CPE-RMUTL/.github/blob/main/profile/README.md)
