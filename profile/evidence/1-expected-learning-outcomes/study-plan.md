@@ -122,3 +122,6 @@
 | XXXXXXXX   | วิชาเลือกเสรี 2                                                      | 3(T-P-E)   | -                      |
 
 **หน่วยกิตรวม: 12**
+
+
+[กลับหน้าแรก](https://github.com/CPE-RMUTL/.github/blob/main/profile/README.md)
