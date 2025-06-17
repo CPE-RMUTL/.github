@@ -60,8 +60,11 @@
 
 ## 📌 ตารางเชื่อมโยง (Mapping)
 
-- [✅ ตาราง PLO ↔ Bloom’s Taxonomy](./evidence/plobloom.pdf)  
-- [✅ ตาราง PLO ↔ พันธกิจมหาวิทยาลัย](./evidence/plomission.pdf)
+- [✅ ตาราง PLO ↔ Bloom’s Taxonomy](https://github.com/CPE-RMUTL/.github/blob/main/profile/evidence/1-expected-learning-outcomes/mapping-plo-bloom.md)  
+- [✅ ตาราง PLO ↔ พันธกิจมหาวิทยาลัย](https://github.com/CPE-RMUTL/.github/blob/main/profile/evidence/1-expected-learning-outcomes/mapping-plo-vision.md)
+- [✅ ตาราง PLO ↔ CLO](https://github.com/CPE-RMUTL/.github/blob/main/profile/evidence/1-expected-learning-outcomes/mapping-plo-clo.md)
+- [✅ ตาราง PLO ↔ ทักษะทั่วไปและเฉพาะทาง](https://github.com/CPE-RMUTL/.github/blob/main/profile/evidence/1-expected-learning-outcomes/PLO-Analysis.md)
+- [✅ ตาราง PLO ↔ เกณฑ์ผลการเรียนรู้ตาม TQF](https://github.com/CPE-RMUTL/.github/blob/main/profile/evidence/1-expected-learning-outcomes/mapping-plo-tqf.md)
 
 ## 👩‍🏫 อาจารย์ผู้รับผิดชอบหลักสูตร
 
