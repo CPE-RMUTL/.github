@@ -114,4 +114,4 @@
 - [mr.kittinan@rmutl.ac.th](https://teams.microsoft.com/l/chat/0/0?users=mr.kittinan%40rmutl.ac.th&openExternalBrowser=1)
 - [Facebook หลักสูตรวิศวกรรมคอมพิวเตอร์ เชียงใหม่](https://www.facebook.com/TechnicComputerRmutl)
 - [Facebook หลักสูตรวิศวกรรมคอมพิวเตอร์ เชียงราย](https://www.facebook.com/ComputerEngineering.rmutl)
-- [Facebook หลักสูตรวิศวกรรมคอมพิวเตอร์ เชียงตาก](https://www.facebook.com/profile.php?id=100064815457989)
+- [Facebook หลักสูตรวิศวกรรมคอมพิวเตอร์ ตาก](https://www.facebook.com/profile.php?id=100064815457989)
